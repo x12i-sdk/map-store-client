@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/map-store-client",
+  "packageVersion": "0.1.8",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/map-store-client",
+  "usageRepository": "https://github.com/x12i-sdk/map-store-client",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Read map-store health using a local HTTP fixture",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validationScope": "browser-bundler-consumer-with-offline-fetch",
+    "validatedAt": "2026-10-24T14:08:04.944706+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "b2a011f56a6e7a27dcda3a2f5abc200e0b208024368d1c938c39b9a073820d4e",
+    "manifestSha256": "66adebbfced73d8c937f9bfe3257238cb40440625204a0ac08a1170c7bed576f"
+  },
+  "validationFiles": {
+    "src/browser-example.mjs": "9260589b412fa163ddb8807f004b9bb7f1c78cc457895ce862b26627d3f50216",
+    "src/index.mjs": "b2a011f56a6e7a27dcda3a2f5abc200e0b208024368d1c938c39b9a073820d4e"
+  }
+}
